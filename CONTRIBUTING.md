@@ -1,11 +1,39 @@
 # Contribution guidelines #
 
-If you discovered bugs and issues, have ideas for improvements or new features,
-or want to contribute a new syntax checker, please report to the
-[issue tracker][] the repository and send a pull request, but respect the
-following guidelines.
+Thank you very much for your interest in contributing to Flycheck!  We’d like to
+warmly welcome you in the Flycheck community, and hope that you enjoy your time
+with us!
+
+There are many ways to contribute to Flycheck, and we appreciate all of them.
+We hope that this document helps you to contribute.  Please feel free to ask any
+questions about contributing in our [issue tracker][] or in our
+[Gitter chatroom][gitter].
+
+Please note that all contributors are expected to follow our
+[Code of Conduct][coc].
 
 [issue tracker]: https://github.com/flycheck/flycheck/issues
+[gitter]: https://gitter.im/flycheck/flycheck
+[coc]: http://www.flycheck.org/conduct.html
+
+## Bug reports ##
+
+## Feature requests ##
+
+## Pull requests ##
+
+### Toolchain setup ###
+
+### Commit guidelines ###
+
+## Writing documentation ##
+
+## Out of tree contributions ##
+
+## Issue management ##
+
+----
+
 
 ## Reporting issues ##
 
